@@ -1,0 +1,21 @@
+Horodateur,Name,Adresse e-mail,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+11/02/2026 14:15:00,Gordon Ramsay,gordon.ramsay@example.com,"14h, 18h, 19h","18h, 19h","14h, 19h","14h, 18h","18h, 19h","14h, 18h, 19h",19h
+11/02/2026 14:15:00,Anthony Bourdain,anthony.bourdain@example.com,"14h, 18h",,"14h, 18h, 19h","18h, 19h",14h,"14h, 18h",14h
+11/02/2026 14:15:00,Jeremy Clarkson,jeremy.clarkson@example.com,"18h, 19h",19h,18h,"18h, 19h",14h,"18h, 19h","14h, 18h"
+11/02/2026 14:15:00,Margot Robbie,margot.robbie@example.com,"14h, 18h, 19h",14h,"14h, 18h, 19h",14h,"14h, 18h","18h, 19h",14h
+11/02/2026 14:15:00,Richard Hammond,richard.hammond@example.com,19h,"18h, 19h",19h,"18h, 19h",19h,14h,"14h, 18h, 19h"
+11/02/2026 14:15:00,Marco Pierre White,marco.pierre.white@example.com,"14h, 18h","14h, 18h, 19h",14h,"14h, 18h","18h, 19h","14h, 18h","14h, 18h, 19h"
+11/02/2026 14:15:00,James May,james.may@example.com,14h,"14h, 18h","18h, 19h",14h,"14h, 18h, 19h",19h,14h
+11/02/2026 14:15:00,Nigella Lawson,nigella.lawson@example.com,"14h, 18h, 19h",19h,"14h, 18h, 19h",18h,18h,"19h, 14h","14h, 18h, 19h"
+11/02/2026 14:15:00,Alain Ducasse,alain.ducasse@example.com,"14h, 18h","18h, 19h",19h,"14h, 18h","14h, 18h","18h, 19h",19h
+11/02/2026 14:15:00,Julia Child,julia.child@example.com,"18h, 19h",14h,"14h, 18h","18h, 19h",19h,"14h, 18h","18h, 19h"
+11/02/2026 14:15:00,Bobby Flay,bobby.flay@example.com,14h,"14h, 18h, 19h","18h, 19h",14h,"14h, 18h","18h, 19h",14h
+11/02/2026 14:15:00,Guy Fieri,guy.fieri@example.com,"18h, 19h",19h,14h,"14h, 18h, 19h","18h, 19h",14h,"14h, 18h, 19h"
+11/02/2026 14:15:00,Wolfgang Puck,wolfgang.puck@example.com,"14h, 18h, 19h","14h, 18h","18h, 19h",19h,14h,"14h, 18h","18h, 19h"
+11/02/2026 14:15:00,Jamie Oliver,jamie.oliver@example.com,19h,14h,"14h, 18h","18h, 19h",14h,"18h, 19h","14h, 18h"
+11/02/2026 14:15:00,Massimo Bottura,massimo.bottura@example.com,"14h, 18h","18h, 19h",19h,"14h, 18h","18h, 19h",14h,"14h, 18h, 19h"
+11/02/2026 14:15:00,Heston Blumenthal,heston.blumenthal@example.com,"14h, 18h, 19h",19h,"14h, 18h","18h, 19h",14h,"18h, 19h",14h
+11/02/2026 14:15:00,Claire Saffitz,claire.saffitz@example.com,19h,"14h, 18h","18h, 19h",14h,"14h, 18h, 19h",19h,14h
+11/02/2026 14:15:00,Matty Matheson,matty.matheson@example.com,"14h, 18h","18h, 19h",14h,"14h, 18h","18h, 19h","14h, 18h","14h, 18h, 19h"
+11/02/2026 14:15:00,David Chang,david.chang@example.com,14h,"14h, 18h","18h, 19h",14h,"14h, 18h","18h, 19h",14h
+11/02/2026 14:15:00,Roy Choi,roy.choi@example.com,"18h, 19h",19h,14h,"14h, 18h, 19h","18h, 19h",14h,"14h, 18h, 19h"

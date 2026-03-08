@@ -1,0 +1,5 @@
+========================================
+           BAR SHORTAGE REPORT
+========================================
+
+All shifts successfully filled. No shortages detected.

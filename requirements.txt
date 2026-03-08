@@ -1,0 +1,9 @@
+pandas
+FreeSimpleGUI
+pulp
+openpyxl
+matplotlib
+pyyaml
+xlsxwriter
+PyYaml
+flask

@@ -1,0 +1,22 @@
+Name,Email,Role,Till_Authorized,Is_Manager
+Gordon Ramsay,gordon.ramsay@example.com,Both,False,False
+Anthony Bourdain,anthony.bourdain@example.com,Bartender,True,False
+Jeremy Clarkson,jeremy.clarkson@example.com,Waiter,False,False
+Richard Hammond,richard.hammond@example.com,Waiter,True,False
+Marco Pierre White,marco.pierre.white@example.com,Both,True,True
+Margot Robbie,margot.robbie@example.com,Both,False,False
+James May,james.may@example.com,Waiter,False,False
+Nigella Lawson,nigella.lawson@example.com,Both,True,True
+Alain Ducasse,alain.ducasse@example.com,Both,True,True
+Julia Child,julia.child@example.com,Waiter,False,False
+Bobby Flay,bobby.flay@example.com,Waiter,True,True
+Guy Fieri,guy.fieri@example.com,Both,False,False
+Wolfgang Puck,wolfgang.puck@example.com,Both,True,True
+Jamie Oliver,jamie.oliver@example.com,Waiter,False,False
+Massimo Bottura,massimo.bottura@example.com,Bartender,False,False
+Heston Blumenthal,heston.blumenthal@example.com,Both,True,True
+Claire Saffitz,claire.saffitz@example.com,Waiter,True,False
+Matty Matheson,matty.matheson@example.com,Bartender,True,False
+David Chang,david.chang@example.com,Both,False,False
+Roy Choi,roy.choi@example.com,Bartender,False,True
+,,Waiter,False,False

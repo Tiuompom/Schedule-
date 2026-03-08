@@ -1,0 +1,30 @@
+headers :  
+  staff_availability : {Horodateur,Name,Adresse e-mail,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday} # Standard header from google form
+  need_for_staff : {Role,Mon 14h,Mon 18h,Mon 19h,Tue 14h,Tue 18h,Tue 19h,Wed 14h,Wed 18h,Wed 19h,Thu 14h,Thu 18h,Thu 19h,Fri 14h,Fri 18h,Fri 19h,Sat 14h,Sat 18h,Sat 19h,Sun 14h,Sun 18h,Sun 19h} # Binary demand for each shift and role
+  staff_register : {Name,Role,Till_Authorized,Is_Manager,Email} # Standard header for staff register, with role and till authorization
+
+names_df: 
+  staff_availability : 'staff_availability.csv'
+  need_for_staff : 'need_for_staff.csv'
+  staff_register : 'staff_register.csv'
+
+path : 
+  data : 'data'
+  outputs : 'outputs'
+  log : 'logs'
+  
+structure : 
+  days : ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
+  shifts : 3
+  roles : ['Waiter', 'Bartender'] 
+  night_shifts : [1,2]
+  time_labels : {0: "14h", 1: "18h", 2: "19h"}
+
+hyp : 
+  w_short : 1000
+
+mapping : 
+  dropbox_yes_no : ['Yes', 'No']
+  registry : 
+    till : {'Yes' : 1.0, 'No' : 0.0}
+    roles : ['Bartender', 'Waiter', 'Both']
