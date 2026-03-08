@@ -227,4 +227,5 @@ python -m PyInstaller --noconfirm --onedir --windowed --name "Staff_Scheduler" -
 - **New type of Optimizer** : BIP is not the only possible way to solve the problem in an exact manner (ex: CP). Also, **for larger problem** with more constraints and/or more workers exact approach will become untractable thus the implementation of **approximate algorithm** such as Grasp algorithm will ensure robustness of the pipeline. 
  
 #   S c h e d u l e -  
+ #   S c h e d u l e -  
  
